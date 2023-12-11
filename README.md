@@ -54,7 +54,7 @@
 <br/>  
 
 
-## Rapidfire  
+# Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - [Homework-1.1](https://drive.google.com/file/d/15y2AUhzSVJm1pVE2lLsC1sQGPs210gqm/view?usp=sharing)  
@@ -70,39 +70,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Languages and Tools  
-  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
