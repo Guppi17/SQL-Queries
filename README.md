@@ -54,7 +54,8 @@
 <br/>  
 
 
-# Result  
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
 - [Homework-1.1](https://drive.google.com/file/d/15y2AUhzSVJm1pVE2lLsC1sQGPs210gqm/view?usp=sharing)  
   
@@ -62,4 +63,48 @@
 - [Homework-1.2](https://drive.google.com/file/d/123k6KphWtUaPvKnaAABgALdeQXQlHbku/view?usp=sharing)   
 
 
-<br/>
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
