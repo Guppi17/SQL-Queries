@@ -54,19 +54,12 @@
 <br/>  
 
 
-## Result  
-<table><tr><td valign="top" width="50%">
+# Result  
 
 - [Homework-1.1](https://drive.google.com/file/d/15y2AUhzSVJm1pVE2lLsC1sQGPs210gqm/view?usp=sharing)  
   
 
 - [Homework-1.2](https://drive.google.com/file/d/123k6KphWtUaPvKnaAABgALdeQXQlHbku/view?usp=sharing)   
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>
