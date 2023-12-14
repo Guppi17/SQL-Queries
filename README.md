@@ -40,7 +40,7 @@
 - [Homework-1](https://docs.google.com/spreadsheets/d/1YimW7aGLZih1QXWi37aAJxj8eEezGWsPFNpASx9LhUU/edit#gid=0)  
   
 
-- [Homework-2](https://drive.google.com/file/d/123k6KphWtUaPvKnaAABgALdeQXQlHbku/view?usp=sharing)   
+- [Homework-2](https://github.com/Guppi17/SQL-Queries/blob/main/Homework-2)  
 
 
 
