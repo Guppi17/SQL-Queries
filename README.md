@@ -8,7 +8,7 @@
 
 1. Скачайте [дампы](https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB) базы данных Hogwarts  
 2. Осуществите импорт таблиц, используя Workbench
-3. Выполните [задание 1 и 2](https://drive.google.com/drive/u/3/folders/1Lt7CY69nR5awNs_9q0XJOHRti4vJj3Qa)
+3. Выполните [задание](https://drive.google.com/drive/u/3/folders/1Lt7CY69nR5awNs_9q0XJOHRti4vJj3Qa) 1 и 2
 
 ︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶  
 
