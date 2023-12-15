@@ -1,7 +1,7 @@
 # SQL-Queries 
   
 <div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/>
+<img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
 </div>
 
 
@@ -88,8 +88,8 @@ db.Library.find ({book_name: /The/})
 - [Homework-1](https://docs.google.com/spreadsheets/d/1YimW7aGLZih1QXWi37aAJxj8eEezGWsPFNpASx9LhUU/edit#gid=0)  
   
 
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
-</div>
 
-<br/>
+
+<div align="center">
+<img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/>
+</div>
